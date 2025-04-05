@@ -1,0 +1,8 @@
+{
+  "build": {
+    "command": "pnpm install --no-frozen-lockfile"
+  },
+  "start": {
+    "command": "pnpm run start"
+  }
+}
